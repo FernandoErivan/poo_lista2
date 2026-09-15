@@ -7,7 +7,7 @@ public class Passaro extends Animal{
     }
 
     @Override
-    public String toString(){
+    public String emitirSom(){
         return "Piu Piu";
     }
 }

@@ -23,9 +23,9 @@ public class Animal {
 
     public String realizarHabilidades(String habilidade){
         if(habilidade.contains(habilidade)){
-            return nome + "consegue" + habilidade;
+            return nome + " consegue " + habilidade;
         }else{
-            return nome + "não consegue" + habilidade;
+            return nome + " não consegue " + habilidade;
         }
      }
 

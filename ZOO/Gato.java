@@ -7,7 +7,7 @@ public class Gato extends Animal{
     }
 
     @Override
-    public String toString() {
+    public String emitirSom() {
         return "Miau Miau";
     }
     
